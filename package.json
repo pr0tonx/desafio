@@ -1,0 +1,16 @@
+{
+  "name": "testedodesafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.8",
+    "googleapis": "^45.0.0"
+  }
+}
